@@ -17,4 +17,4 @@ alberto.mancino94@gmail.com <br/>
 
 <br/>
 <br/>
-<img src="https://github.com/azzollinigianluca95/Smart-Delivery-Box/blob/master/Smart%20Delivery%20Box%20Project/Smart_Delivery_Box.jpg" width="380">
+<img src="https://github.com/azzollinigianluca95/Catch-the-mole---a-VHDL-project-for-a-FPGA-board/blob/master/Catch_the_mole_win.png" width="380">
