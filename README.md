@@ -5,8 +5,8 @@ Simulation of the famous game 'Catch The Mole' on a FPGA board (Altera Cyclone V
 Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
 
 **Developers** <br/>
-Sergio Abascià
-Gianluca Azzollini  
+Sergio Abascià <br/>
+Gianluca Azzollini <br/>  
 Alberto Carlo Maria Mancino
 
 **Contacts** <br/>
