@@ -6,7 +6,7 @@ Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
 
 **Developers** <br/>
 Sergio Abascià <br/>
-Gianluca Azzollini <br/>  
+Gianluca Azzollini <br/>
 Alberto Carlo Maria Mancino
 
 **Contacts** <br/>
