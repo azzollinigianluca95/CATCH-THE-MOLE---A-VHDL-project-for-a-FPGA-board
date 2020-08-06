@@ -1,6 +1,5 @@
 **A VHDL project for a FPGA board Box** <br/> 
 Simulation of the famous game 'Catch The Mole' on a FPGA board (Altera Cyclone V) using VHDL. </br>
-</br>
 
 The project has been designed building different functional blocks with specific purposes and relative interactions. </br>
 The hardware description has been made using VHDL language by Intel Quartus Prime software. </br>
